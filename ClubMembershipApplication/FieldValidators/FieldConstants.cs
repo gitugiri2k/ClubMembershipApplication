@@ -18,7 +18,7 @@ namespace ClubMembershipApplication.FieldValidators
             AddressFirstLine,
             AddressSecondLine,
             AddressCity,
-            PostCode
+            PostCode //test
         }
 	}
 }
